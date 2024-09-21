@@ -1,0 +1,8 @@
+# Ignore png
+
+new_images/
+
+*.pth
+Animals_data/
+models/
+*.zip
